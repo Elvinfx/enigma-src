@@ -1,4 +1,4 @@
 u need the driive nigga?
 
 
- dm me exlypxe
+ dm me exlypxe on discord
