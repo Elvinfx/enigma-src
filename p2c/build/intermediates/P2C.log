@@ -1,0 +1,1319 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(66,1): warning C4005: 'STATUS_WAIT_0': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2549,1):
+  see previous definition of 'STATUS_WAIT_0'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(223,1): warning C4005: 'STATUS_ABANDONED_WAIT_0': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2550,1):
+  see previous definition of 'STATUS_ABANDONED_WAIT_0'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(246,1): warning C4005: 'STATUS_USER_APC': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2551,1):
+  see previous definition of 'STATUS_USER_APC'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(282,1): warning C4005: 'STATUS_TIMEOUT': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2552,1):
+  see previous definition of 'STATUS_TIMEOUT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(291,1): warning C4005: 'STATUS_PENDING': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2553,1):
+  see previous definition of 'STATUS_PENDING'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(747,1): warning C4005: 'DBG_EXCEPTION_HANDLED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2554,1):
+  see previous definition of 'DBG_EXCEPTION_HANDLED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(756,1): warning C4005: 'DBG_CONTINUE': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2555,1):
+  see previous definition of 'DBG_CONTINUE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(831,1): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2556,1):
+  see previous definition of 'STATUS_SEGMENT_NOTIFICATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(994,1): warning C4005: 'STATUS_FATAL_APP_EXIT': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2557,1):
+  see previous definition of 'STATUS_FATAL_APP_EXIT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1332,1): warning C4005: 'DBG_REPLY_LATER': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2558,1):
+  see previous definition of 'DBG_REPLY_LATER'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1350,1): warning C4005: 'DBG_TERMINATE_THREAD': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2559,1):
+  see previous definition of 'DBG_TERMINATE_THREAD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1359,1): warning C4005: 'DBG_TERMINATE_PROCESS': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2560,1):
+  see previous definition of 'DBG_TERMINATE_PROCESS'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1368,1): warning C4005: 'DBG_CONTROL_C': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2561,1):
+  see previous definition of 'DBG_CONTROL_C'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1377,1): warning C4005: 'DBG_PRINTEXCEPTION_C': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2562,1):
+  see previous definition of 'DBG_PRINTEXCEPTION_C'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1386,1): warning C4005: 'DBG_RIPEXCEPTION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2563,1):
+  see previous definition of 'DBG_RIPEXCEPTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1395,1): warning C4005: 'DBG_CONTROL_BREAK': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2564,1):
+  see previous definition of 'DBG_CONTROL_BREAK'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1404,1): warning C4005: 'DBG_COMMAND_EXCEPTION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2565,1):
+  see previous definition of 'DBG_COMMAND_EXCEPTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1413,1): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2566,1):
+  see previous definition of 'DBG_PRINTEXCEPTION_WIDE_C'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1445,1): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2567,1):
+  see previous definition of 'STATUS_GUARD_PAGE_VIOLATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1456,1): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2568,1):
+  see previous definition of 'STATUS_DATATYPE_MISALIGNMENT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1467,1): warning C4005: 'STATUS_BREAKPOINT': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2569,1):
+  see previous definition of 'STATUS_BREAKPOINT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1478,1): warning C4005: 'STATUS_SINGLE_STEP': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2570,1):
+  see previous definition of 'STATUS_SINGLE_STEP'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1781,1): warning C4005: 'STATUS_LONGJUMP': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2571,1):
+  see previous definition of 'STATUS_LONGJUMP'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1808,1): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2572,1):
+  see previous definition of 'STATUS_UNWIND_CONSOLIDATE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1923,1): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2573,1):
+  see previous definition of 'DBG_EXCEPTION_NOT_HANDLED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2090,1): warning C4005: 'STATUS_ACCESS_VIOLATION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2574,1):
+  see previous definition of 'STATUS_ACCESS_VIOLATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2099,1): warning C4005: 'STATUS_IN_PAGE_ERROR': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2575,1):
+  see previous definition of 'STATUS_IN_PAGE_ERROR'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2117,1): warning C4005: 'STATUS_INVALID_HANDLE': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2576,1):
+  see previous definition of 'STATUS_INVALID_HANDLE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2162,1): warning C4005: 'STATUS_INVALID_PARAMETER': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2577,1):
+  see previous definition of 'STATUS_INVALID_PARAMETER'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2262,1): warning C4005: 'STATUS_NO_MEMORY': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2578,1):
+  see previous definition of 'STATUS_NO_MEMORY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2319,1): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2579,1):
+  see previous definition of 'STATUS_ILLEGAL_INSTRUCTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2400,1): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2580,1):
+  see previous definition of 'STATUS_NONCONTINUABLE_EXCEPTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2409,1): warning C4005: 'STATUS_INVALID_DISPOSITION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2581,1):
+  see previous definition of 'STATUS_INVALID_DISPOSITION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3342,1): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2582,1):
+  see previous definition of 'STATUS_ARRAY_BOUNDS_EXCEEDED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3352,1): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2583,1):
+  see previous definition of 'STATUS_FLOAT_DENORMAL_OPERAND'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3362,1): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2584,1):
+  see previous definition of 'STATUS_FLOAT_DIVIDE_BY_ZERO'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3372,1): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2585,1):
+  see previous definition of 'STATUS_FLOAT_INEXACT_RESULT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3382,1): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2586,1):
+  see previous definition of 'STATUS_FLOAT_INVALID_OPERATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3392,1): warning C4005: 'STATUS_FLOAT_OVERFLOW': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2587,1):
+  see previous definition of 'STATUS_FLOAT_OVERFLOW'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3402,1): warning C4005: 'STATUS_FLOAT_STACK_CHECK': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2588,1):
+  see previous definition of 'STATUS_FLOAT_STACK_CHECK'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3412,1): warning C4005: 'STATUS_FLOAT_UNDERFLOW': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2589,1):
+  see previous definition of 'STATUS_FLOAT_UNDERFLOW'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3422,1): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2590,1):
+  see previous definition of 'STATUS_INTEGER_DIVIDE_BY_ZERO'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3432,1): warning C4005: 'STATUS_INTEGER_OVERFLOW': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2591,1):
+  see previous definition of 'STATUS_INTEGER_OVERFLOW'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3442,1): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2592,1):
+  see previous definition of 'STATUS_PRIVILEGED_INSTRUCTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4388,1): warning C4005: 'STATUS_STACK_OVERFLOW': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2593,1):
+  see previous definition of 'STATUS_STACK_OVERFLOW'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4905,1): warning C4005: 'STATUS_DLL_NOT_FOUND': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2594,1):
+  see previous definition of 'STATUS_DLL_NOT_FOUND'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4934,1): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2595,1):
+  see previous definition of 'STATUS_ORDINAL_NOT_FOUND'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4944,1): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2596,1):
+  see previous definition of 'STATUS_ENTRYPOINT_NOT_FOUND'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4954,1): warning C4005: 'STATUS_CONTROL_C_EXIT': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2597,1):
+  see previous definition of 'STATUS_CONTROL_C_EXIT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(5032,1): warning C4005: 'STATUS_DLL_INIT_FAILED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2598,1):
+  see previous definition of 'STATUS_DLL_INIT_FAILED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(6029,1): warning C4005: 'STATUS_CONTROL_STACK_VIOLATION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2599,1):
+  see previous definition of 'STATUS_CONTROL_STACK_VIOLATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7623,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2600,1):
+  see previous definition of 'STATUS_FLOAT_MULTIPLE_FAULTS'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7633,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2601,1):
+  see previous definition of 'STATUS_FLOAT_MULTIPLE_TRAPS'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7765,1): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2602,1):
+  see previous definition of 'STATUS_REG_NAT_CONSUMPTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8748,1): warning C4005: 'STATUS_HEAP_CORRUPTION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2603,1):
+  see previous definition of 'STATUS_HEAP_CORRUPTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8976,1): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2604,1):
+  see previous definition of 'STATUS_STACK_BUFFER_OVERRUN'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9103,1): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2605,1):
+  see previous definition of 'STATUS_INVALID_CRUNTIME_PARAMETER'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9166,1): warning C4005: 'STATUS_ASSERTION_FAILURE': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2606,1):
+  see previous definition of 'STATUS_ASSERTION_FAILURE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10075,1): warning C4005: 'STATUS_ENCLAVE_VIOLATION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2607,1):
+  see previous definition of 'STATUS_ENCLAVE_VIOLATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10808,1): warning C4005: 'STATUS_INTERRUPTED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2608,1):
+  see previous definition of 'STATUS_INTERRUPTED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10817,1): warning C4005: 'STATUS_THREAD_NOT_RUNNING': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2609,1):
+  see previous definition of 'STATUS_THREAD_NOT_RUNNING'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(11129,1): warning C4005: 'STATUS_ALREADY_REGISTERED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2610,1):
+  see previous definition of 'STATUS_ALREADY_REGISTERED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(15048,1): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2612,1):
+  see previous definition of 'STATUS_SXS_EARLY_DEACTIVATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(15057,1): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2613,1):
+  see previous definition of 'STATUS_SXS_INVALID_DEACTIVATION'
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\kernel\driver.h(23,17): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\kernel\driver.h(223,45): warning C4244: 'argument': conversion from 'SIZE_T' to 'uint32_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(154,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(159,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(200,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(201,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(202,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(204,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(205,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(206,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(208,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(209,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(210,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(211,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(212,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(213,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(215,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(216,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(217,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(218,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(220,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(221,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(222,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(223,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(225,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(226,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(227,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(228,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(268,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(269,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(270,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(279,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(280,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(281,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(285,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(286,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(290,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(291,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(295,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(296,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(313,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(314,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(315,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(316,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(317,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(318,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(321,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(322,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(323,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(326,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(327,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(328,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(331,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(332,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(333,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(336,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(337,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\worldtoscreen.hpp(338,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\aimbot\movement\mouse.hpp(4,29): warning C4305: 'initializing': truncation from '__int64' to 'BYTE'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\aimbot\movement\mouse.hpp(4,29): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\aimbot\function.hpp(16,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\aimbot\function.hpp(17,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\aimbot\function.hpp(18,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(4,1): warning C4005: 'IM_ARRAYSIZE': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Users\Elvinfx\Desktop\enigma\p2c\backend\framework\imgui\imgui.h(85,1):
+  see previous definition of 'IM_ARRAYSIZE'
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(17,19): warning C4244: 'initializing': conversion from 'const wchar_t' to 'char', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(22,40): warning C4244: '=': conversion from 'const wchar_t' to 'char', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(31,18): warning C4244: 'initializing': conversion from 'const wchar_t' to 'char', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(63,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(63,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(77,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(109,145): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(109,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(109,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(109,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(110,145): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(110,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(110,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(110,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(111,145): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(111,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(111,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(111,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(112,145): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(112,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(112,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(112,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(113,145): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(113,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(113,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(113,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(114,145): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(114,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(114,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(114,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(115,145): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(115,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(115,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(115,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(116,147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(116,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(116,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(116,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(117,145): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(117,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(117,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(117,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(118,149): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(118,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(118,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(118,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(119,147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(119,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(119,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(119,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(120,149): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(120,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(120,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(120,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(121,149): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(121,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(121,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(121,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(131,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(164,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(165,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(169,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(169,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(170,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(170,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(171,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(171,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(172,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(172,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(174,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(174,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(241,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(241,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(241,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(241,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(241,143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(241,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(241,185): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(241,168): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(242,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(242,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(242,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(242,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(242,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(242,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(242,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(242,132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(251,129): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(251,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(251,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(251,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(256,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(256,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(256,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(260,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(260,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(260,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(260,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(279,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(280,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(282,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(282,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(282,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(282,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(283,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(283,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(283,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(283,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(284,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(284,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(284,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(284,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(285,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(285,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(285,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(285,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(286,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(286,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(286,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(286,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(287,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(287,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(287,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(287,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(288,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(288,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(288,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(288,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(289,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(289,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(289,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(289,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(294,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(294,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(294,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(294,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(299,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(299,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(299,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(299,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(100,21): warning C4244: 'return': conversion from 'UINT64' to '_CHAR_TYPE_', possible loss of data
+C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(100,21): warning C4244:         with
+C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(100,21): warning C4244:         [
+C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(100,21): warning C4244:             _CHAR_TYPE_=CHAR
+C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(100,21): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(305,18):
+  while evaluating constexpr function 'XorStr'
+  C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(100,21):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(305,18):
+  	see reference to class template instantiation '_XORSTR_<CHAR,5>' being compiled
+  	C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(95,15):
+  	while compiling class template member function '_CHAR_TYPE_ _XORSTR_<_CHAR_TYPE_,5>::CRYPT_CHAR(_CHAR_TYPE_,SIZE_T)'
+          with
+          [
+              _CHAR_TYPE_=CHAR
+          ]
+  		C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(108,16):
+  		see the first reference to '_XORSTR_<CHAR,5>::CRYPT_CHAR' in '_XORSTR_<CHAR,5>::_XORSTR_'
+  		C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(72,14):
+  		see the first reference to '_XORSTR_<CHAR,5>::_XORSTR_' in '_XORSTR_<CHAR,5>::_XORSTR_'
+  		C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(121,2):
+  		see the first reference to '_XORSTR_<CHAR,5>::_XORSTR_' in 'XorStr'
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(307,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(307,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(542,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(582,74): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\utils.h(582,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\decrypt.hpp(62,13): warning C4244: '=': conversion from '__int64' to 'char', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\decrypt.hpp(69,14): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(120,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(120,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(120,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(121,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(121,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(121,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(126,124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(126,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(126,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(126,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(127,124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(127,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(127,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(127,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(128,124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(128,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(128,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(128,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(129,124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(129,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(129,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(129,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(131,124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(131,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(131,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(131,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(132,124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(132,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(132,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(132,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(133,124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(133,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(133,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(133,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(134,124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(134,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(134,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(134,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(172,27): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(193,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(194,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(195,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(218,143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(218,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(218,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(218,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(220,143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(220,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(220,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(220,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(222,141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(222,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(222,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(222,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(224,141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(224,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(224,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(224,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(230,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(230,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(230,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(230,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(230,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(262,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(262,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(278,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(278,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(291,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(291,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(299,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(299,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(300,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(300,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(305,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(305,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(308,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(308,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(308,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\entity.hpp(315,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\overlay\hijack.h(249,57): warning C4244: '=': conversion from 'DWORD' to 'WORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\overlay\hijack.h(406,32): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\overlay\hijack.h(407,32): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\overlay\hijack.h(419,32): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\overlay\hijack.h(420,32): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\overlay\overlay.hpp(401,22): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\overlay\overlay.hpp(402,22): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\overlay\overlay.hpp(399,11): warning C4101: 'xy': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\main.cpp(91,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(100,21): warning C4244: 'return': conversion from 'UINT64' to '_CHAR_TYPE_', possible loss of data
+C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(100,21): warning C4244:         with
+C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(100,21): warning C4244:         [
+C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(100,21): warning C4244:             _CHAR_TYPE_=WCHAR
+C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(100,21): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(100,21):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\overlay\hijack.h(29,51):
+  	see reference to class template instantiation '_XORSTR_<WCHAR,8>' being compiled
+  	C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(95,15):
+  	while compiling class template member function '_CHAR_TYPE_ _XORSTR_<_CHAR_TYPE_,8>::CRYPT_CHAR(_CHAR_TYPE_,SIZE_T)'
+          with
+          [
+              _CHAR_TYPE_=WCHAR
+          ]
+  		C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\encryption\string\xor.hpp(83,18):
+  		see the first reference to '_XORSTR_<WCHAR,8>::CRYPT_CHAR' in '_XORSTR_<WCHAR,8>::String'
+  		C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\overlay\hijack.h(29,41):
+  		see the first reference to '_XORSTR_<WCHAR,8>::String' in 'HiJackNotepadWindow'
+  
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\kernel\driver.h(236,62): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'main.cpp')
+  C:\Users\Elvinfx\Desktop\enigma\p2c\backend\kernel\driver.h(236,62):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\decrypt.hpp(37,4):
+  	see reference to function template instantiation 'bool read_array<uint8_t>(uintptr_t,T *,size_t)' being compiled
+          with
+          [
+              T=uint8_t
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:             _Elem=char
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\decrypt.hpp(39,28):
+  	see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  		C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\sdk\decrypt.hpp(39,28):
+  		see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'unrealenginedecryption::decrypt::platform'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2590,17):
+  	see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+  
+main.obj : warning LNK4006: "struct ImVec4 c::accent" (?accent@c@@3UImVec4@@A) already defined in imgui.obj; second definition ignored
+main.obj : warning LNK4006: "struct ImVec4 c::bg::background" (?background@bg@c@@3UImVec4@@A) already defined in imgui.obj; second definition ignored
+main.obj : warning LNK4006: "struct ImVec4 c::child::background" (?background@child@c@@3UImVec4@@A) already defined in imgui.obj; second definition ignored
+C:\Users\Elvinfx\Desktop\enigma\p2c\build\Enigma Public.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\game\world\overlay\overlay.hpp(335): warning C4715: 'DirectX::DirectX11::initiate': not all control paths return a value
+  All 3117 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+* CIL library *(* CIL module *) : warning LNK4006: "struct ImVec4 c::accent" (?accent@c@@3UImVec4@@A) already defined in imgui.obj; second definition ignored
+* CIL library *(* CIL module *) : warning LNK4006: "struct ImVec4 c::bg::background" (?background@bg@c@@3UImVec4@@A) already defined in imgui.obj; second definition ignored
+* CIL library *(* CIL module *) : warning LNK4006: "struct ImVec4 c::child::background" (?background@child@c@@3UImVec4@@A) already defined in imgui.obj; second definition ignored
+C:\Users\Elvinfx\Desktop\enigma\p2c\build\Enigma Public.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  P2C.vcxproj -> C:\Users\Elvinfx\Desktop\enigma\p2c\build\Enigma Public.exe

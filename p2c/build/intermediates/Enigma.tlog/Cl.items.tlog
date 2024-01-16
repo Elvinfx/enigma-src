@@ -1,0 +1,9 @@
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\framework\imgui\imgui.cpp;C:\Users\Elvinfx\Desktop\enigma\p2c\build\intermediates\imgui.obj
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\framework\imgui\imgui_draw.cpp;C:\Users\Elvinfx\Desktop\enigma\p2c\build\intermediates\imgui_draw.obj
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\framework\imgui\imgui_impl_dx11.cpp;C:\Users\Elvinfx\Desktop\enigma\p2c\build\intermediates\imgui_impl_dx11.obj
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\framework\imgui\imgui_impl_win32.cpp;C:\Users\Elvinfx\Desktop\enigma\p2c\build\intermediates\imgui_impl_win32.obj
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\framework\imgui\imgui_tables.cpp;C:\Users\Elvinfx\Desktop\enigma\p2c\build\intermediates\imgui_tables.obj
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\framework\imgui\imgui_widgets.cpp;C:\Users\Elvinfx\Desktop\enigma\p2c\build\intermediates\imgui_widgets.obj
+C:\Users\Elvinfx\Desktop\enigma\p2c\backend\kernel\driver.cpp;C:\Users\Elvinfx\Desktop\enigma\p2c\build\intermediates\driver.obj
+C:\Users\Elvinfx\Desktop\enigma\p2c\frontend\protection\process\AntiCrack.cpp;C:\Users\Elvinfx\Desktop\enigma\p2c\build\intermediates\AntiCrack.obj
+C:\Users\Elvinfx\Desktop\enigma\p2c\main.cpp;C:\Users\Elvinfx\Desktop\enigma\p2c\build\intermediates\main.obj
